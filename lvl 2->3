@@ -1,0 +1,8 @@
+first copy the address and paste it on the browser
+now the username is natas1 and we can paste the password from the last lvl which was obtained
+now it says there is nothing on this page
+but view the source code once 
+to do so uce ctrl+u
+now if we observe carefully in this source code we can see the password for the next lvl
+<script>var wechallinfo = { "level": "natas2", "pass": "h4ubbcXrWqsTo7GGnnUMLppXbOogfBZ7" };</script></head>
+so from this we get the password for lvl 3= h4ubbcXrWqsTo7GGnnUMLppXbOogfBZ7
