@@ -1,0 +1,7 @@
+first copy the address and paste it on the browser
+now the username is natas1 and we can paste the password from the last lvl which was obtained
+now here it says rightclicking is blocked in this page
+but i want to look into the source code so there is another option for that
+ie by using ctrl+u
+here we can see the source code contaions the password for lvl 2
+<!--The password for natas2 is h4ubbcXrWqsTo7GGnnUMLppXbOogfBZ7 -->
